@@ -6,3 +6,7 @@ Source:
 Files: rendered/*
 Copyright: 2023 Sidings Media
 License: CC-BY-SA-4.0
+
+Files: *.svg
+Copyright: 2023 Sidings Media
+License: CC-BY-SA-4.0
